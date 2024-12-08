@@ -1,0 +1,16 @@
+matplotlib
+numpy
+opencv-python
+pillow
+psutil
+PyYAML
+requests
+scipy
+thop
+torch
+torchvision
+ultralytics
+pandas
+seaborn
+pygetwindow
+pyautogui
