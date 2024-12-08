@@ -1,13 +1,13 @@
 # 跳一跳模拟器
 
-本项目是一个基于 OpenCV + Yolov5 的跳一跳模拟器，可以自动识别微信电脑端跳一跳小程序，并实现自动跳跃、失败自动重开等功能。
+本项目是一个基于 OpenCV + YOLOv5 的跳一跳模拟器，可以自动识别微信电脑端跳一跳小程序，并实现自动跳跃、失败自动重开等功能。
 
 ## 使用方法
 
-1. 将本仓库克隆到本地，并在根目录下克隆 yolov5 仓库
+1. 将本仓库克隆到本地，并在根目录下克隆 YOLOv5 仓库
 
 ```bash
-git clone
+git clone https://github.com/cheng1559/jump-jump.git
 cd jump-jump
 git clone https://github.com/ultralytics/yolov5.git
 ```
